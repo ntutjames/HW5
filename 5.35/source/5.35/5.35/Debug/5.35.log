@@ -1,0 +1,5 @@
+﻿  main.c
+c:\users\user\onedrive - 國立臺北科技大學\桌面\5.35\source\main.c(12): warning C4477: 'printf' : 格式字串 '%u' 需要 'unsigned int' 類型的引數，但 variadic 引數 2 的類型為 'unsigned __int64'
+  c:\users\user\onedrive - 國立臺北科技大學\桌面\5.35\source\main.c(12): note: 請考慮在格式字串中使用 '%llu'
+  c:\users\user\onedrive - 國立臺北科技大學\桌面\5.35\source\main.c(12): note: 請考慮在格式字串中使用 '%I64u'
+  5.35.vcxproj -> C:\Users\User\OneDrive - 國立臺北科技大學\桌面\5.35\source\5.35\Debug\5.35.exe
